@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WheelOfFun/static/css/main.4de0fa12.css",
+    "main.js": "/WheelOfFun/static/js/main.805ff11b.js",
+    "index.html": "/WheelOfFun/index.html",
+    "main.4de0fa12.css.map": "/WheelOfFun/static/css/main.4de0fa12.css.map",
+    "main.805ff11b.js.map": "/WheelOfFun/static/js/main.805ff11b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de0fa12.css",
+    "static/js/main.805ff11b.js"
+  ]
+}
